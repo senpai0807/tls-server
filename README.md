@@ -18,6 +18,7 @@
 ## Documentation
 **Endpoint:** `/tlsClient` & `/tlsToken`
 **Method:** `POST`
+**Additonal Information:** [bogdanfinn TLS Documentation](https://bogdanfinn.gitbook.io/open-source-oasis)
 **Payload:**
 | Payload | Description | Optional | Default |
 | ------- | ----------- | -------- | ------- |
