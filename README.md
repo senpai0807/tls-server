@@ -26,7 +26,7 @@
 | url | Request URL | ❌ | N/A |
 | tlsPayload | Payload To Send | Only Optional For GET | N/A |
 | proxyConfig | Proxy Config For Request - Must Be Sent As An Object { ip, port, user, pass } | ✅ | N/A |
-| forceHttp1 | Force HTTP 1.0 | ✅ | HTTP 2.0 |
+| forceHttp1 | Boolean - Force HTTP 1.0 | ✅ | false |
 | headerOrder | Header Order For Request - Must Be Sent As Array ['accept', 'accept-language'] | ✅ | N/A |
 | followRedirects | Boolean - To Follow All Redirects | ✅ | true |
 | tlsClientIdentifier | TLS CLient Profile | ✅ | chrome_124 |
