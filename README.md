@@ -16,9 +16,9 @@
 - If it gets confusing on how to use this repo, refer to the test.js I've included which has an example on how to make a request to both endpoints.
 
 ## Documentation
-- **Endpoint:** `/tlsClient` & `/tlsToken`
-- **Method:** `POST`
-- **Additonal Information:** [bogdanfinn TLS Documentation](https://bogdanfinn.gitbook.io/open-source-oasis)
+**Endpoint:** `/tlsClient` & `/tlsToken`
+**Method:** `POST`
+**Additonal Information:** [bogdanfinn TLS Documentation](https://bogdanfinn.gitbook.io/open-source-oasis)
 **Payload:**
 | Payload | Description | Optional | Default |
 | ------- | ----------- | -------- | ------- |
